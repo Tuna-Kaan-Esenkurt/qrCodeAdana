@@ -1,0 +1,40 @@
+.nav_com {
+    background-color: #F15412;
+    color: #fff;
+    padding: 1.5rem;
+    font-weight: 700;
+    font-size: 2rem;
+    
+}
+.nav_com a{
+    color: #fff;
+ margin-right: 2rem;
+}
+
+.map-section img {
+
+    height:calc(100vh - 23rem);
+}
+.alinan_konum {
+    background-color: #F15412;
+    padding: 1.5rem;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+.btn_collapse {
+    background-color: #F15412;
+    padding: 0.5rem 0.5rem 2rem 0.5rem;
+    border-top:1px solid black;
+    border-bottom: 1px solid #F15412;
+}
+.btn_com{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 0.6rem;
+    padding: 1.4rem;
+    width: 90%;
+}

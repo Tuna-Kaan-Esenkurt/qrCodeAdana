@@ -1,0 +1,14 @@
+/* header*/
+.header_navbar{
+    background-color:#2C3333 ;
+    padding: 11px 0px;
+}
+.main_header{
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index:+1;
+}
+.navbar-toggler-icon{
+    padding: 1.4rem;
+}

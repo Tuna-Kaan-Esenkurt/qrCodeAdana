@@ -1,0 +1,37 @@
+.nav_collapse {
+    padding: 1rem 1rem 5rem 1rem;
+    background-color: #F15412;
+    border-bottom:2px solid #000000;
+}
+.sr_nav {
+    background-color: #F15412;
+    display: flex;
+}
+.sr_nav .flex_left {
+    flex: 15%;
+}
+.sr_nav .flex_left  a{
+    color: #fff;
+    padding: 0.5rem;
+    font-size: 1.8rem;
+}
+.sr_nav .flex_right {
+    font-size: 1rem;
+   flex: 85%;
+}
+
+.search_route {
+    padding: 1.3rem;
+    background-color: #F15412;
+}
+.btn_com{
+    background-color: #000000;
+    color: #EEEEEE;
+    display: block;
+    margin: auto;
+    padding: 1.2rem;
+    width: 90%;
+}
+.map-section img {
+ height:calc(100vh - 21.7rem);
+}

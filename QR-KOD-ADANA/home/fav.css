@@ -1,0 +1,44 @@
+.favourite {
+    height: 500px;
+}
+.fav_div {
+    font-size: 1.6rem;
+    background-color:#CFD2CF;
+    color: #3e4555;
+    padding: 20px 10px ;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+ }
+ .fav-link {
+    text-decoration: none;
+    
+ }
+
+.fav_nav_items {
+   padding: 0;
+}
+
+.fav_nav_item {
+    list-style: none;
+    border-bottom: 1px solid #3e4555;
+    
+ }
+
+.fav_links {
+    padding: 15px 0px 15px;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;    
+}
+.fav_left {
+
+}
+.fav_right {
+
+    color: #2C3333;
+}
+ 

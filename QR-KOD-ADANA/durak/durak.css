@@ -1,0 +1,59 @@
+.input-group {
+position: fixed;
+top: 0;
+display: flex;
+height: 4.5rem;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border: 1px solid #FCF8E8;
+}
+main {
+    margin-top: 4.3rem;
+}
+#search-autocomplete{
+flex: 87%;
+}
+#search-autocomplete input {
+    height: 100%;
+}
+#durak_button{
+flex: 13%;
+}
+.main_img{
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.yakindakiler{
+    font-size: 1.5rem;
+    padding: 10px;
+    text-align: center;
+    background-color: #31087B;
+    color: #CFD2CF;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid #3e4555;
+}
+.duraklar {
+
+padding-bottom: 1rem;
+}
+.durak {
+    background-color: #FCF8E8;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 1.6rem;
+    padding: 1.2rem;
+}
+.durak i {
+ padding: 0.3rem;
+ background-color:#AC7088;
+}
+.durak span {
+ padding: 0.3rem;
+}
+.hat_show {
+    font-size: 1.5rem;
+    background-color: #CFD2CF;
+    padding: 1.4rem;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}

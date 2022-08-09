@@ -1,0 +1,54 @@
+html{
+    height: 100%;
+}
+.durak_title{
+    background-color: #FFB562;
+    padding: 2rem 0rem;
+    text-align: center;
+    color: black;
+    font-size: 3.2rem;
+    font-weight: 900;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.hat_link {
+    background-color: #CFD2CF;
+    font-size: 1.8rem;
+    text-align:center;
+    padding: 1rem 2rem;
+}
+.hat_link a {
+    font-weight: 600;
+    color: #0d6efd;
+}
+.kaplama {
+    min-height:calc(100vh - 23.75rem);
+}
+.hat_list {
+    margin-top: 0.5rem;
+}
+.hat_list i {
+    background-color: #E2DCC8;
+    padding: 0.2rem;
+    color: #D1512D;
+    font-size: 2.5rem;
+    border: 1px solid #D1512D;
+}
+.hat_list .hat_items {
+    padding: 0;
+    margin-bottom: 0;
+    
+}
+.hat_list .hat_item {
+    margin-bottom: 0.7rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 1px solid #CFD2CF;
+    
+}
+.hat_list .hat_item .arac {
+    display: inline-block;
+}

@@ -1,0 +1,51 @@
+/* main */
+
+    .map-section{
+        width: 100%;
+    }
+    .search_section{
+        width: 100%;
+        
+    }
+    .main_img{
+        width: 100%;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    .search_link {
+        display: block;
+        width: 95%;
+        margin:auto;
+        margin-top: 0.6rem;
+        transition: all 1s;
+        
+     }
+.form-outline{
+    width: calc(100% - 4.5rem);
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form-outline #form1{
+    padding: 0.8rem 0.4rem;
+}
+.search_button {
+    display: inline-block;
+    margin-bottom: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.search_button .fa-search{
+    padding: 0.52rem;
+    font-size: 1.4rem;
+}
+.card-body{
+    text-align: center;
+}
+.card-title {
+    color: #3e4555;
+    font-weight: 600;
+    font-size: 2.4rem;
+}
+.card-text {
+    font-size: 1.3rem;
+}
+
+ 

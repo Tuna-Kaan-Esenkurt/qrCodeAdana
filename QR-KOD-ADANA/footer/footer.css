@@ -1,0 +1,30 @@
+/* footer */
+footer {
+    position: sticky;
+    width: 100%;
+    bottom: 0;  
+}
+.footer_nav{
+  
+    background-color: #2C3333;
+}   
+.footer_nav_items{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+  
+
+}
+.footer_nav_item {
+    padding: 2.5rem 0 2.5rem 0;
+    text-align: center;
+    width: 33.3%;
+    display:inline-block;
+       
+}
+.footer_nav_link {
+    color:#A6D1E6;
+    text-decoration: none;
+    font-size: 25px; 
+}

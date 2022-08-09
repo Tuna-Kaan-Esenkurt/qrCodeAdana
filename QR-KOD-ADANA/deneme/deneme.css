@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.container {
+    display: flex;
+    background-color: blue;
+}
+.section1{
+    
+    height: 500px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items: center;
+    flex: 50%;
+}
+.section2{
+    flex: 50%;
+}
+.item {
+    padding: 20px;
+    margin: 10px;
+    background-color:chocolate;
+}
+.item1 {
+    flex-grow: 1;
+}
+.item2{
+    flex-basis: 100px;
+    flex-shrink: 0;
+}
